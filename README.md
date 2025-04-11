@@ -148,7 +148,7 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
   &nbsp;
-  <a href="https://github.com/amandeep-singh" target="_blank">
+  <a href="https://github.com/DevxAman" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
   &nbsp;
