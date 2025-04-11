@@ -1,30 +1,34 @@
-<h1 align="center">⚔️🔥 AMANDEEP SINGH - CODE. DOMINATE. REPEAT. ⚔️🔥</h1>
-<h3 align="center">"I'm not a developer. I'm the glitch in the matrix."</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=700&lines=Digital+Architect+by+Day%2C+Code+Samurai+by+Night.;Transforming+Ideas+Into+Explosive+Reality.;Full-Stack+Sorcerer+%F0%9F%94%AE+%7C+Mongo+%2B+Express+%2B+Next+%2B+Node.;AI+Fanatic+%7C+Dark+Theme+Enthusiast+%7C+Vercel+Warrior" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Amandeep%20Singh&fontSize=60&fontAlignY=40&desc=Code.%20Dominate.%20Repeat.&descAlignY=60&animation=fadeIn" alt="Header Capsule" />
 </p>
 
-<h2 align="center">⚡ Cyberpunk Coder in a Neon-Lit Future ⚡</h2>
+<h1 align="center">⚔️🔥 AMANDEEP SINGH - THE CODE SAMURAI ⚔️🔥</h1>
+<h3 align="center">"I don’t write code. I sculpt chaos into digital empires."</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amandeep-singh/amandeep-singh/main/assets/banner.png" alt="Cyberpunk Banner" style="max-width: 100%; border-radius: 12px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=800&lines=Full-Stack+Sorcerer+🧙‍♂️+|+MongoDB,+Express,+Next.js,+Node.js;AI+Alchemist+🧪+|+Transforming+Ideas+into+Neon-Lit+Reality;Cyberpunk+Coder+🌌+|+Vercel+Warlord+%26+Dark+Theme+Evangelist;Open+Source+Ronin+⚔️+|+Building+the+Future,+One+Commit+at+a+Time" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amandeep-singh&label=👁️‍🗨️%20Profile%20Views&color=blueviolet&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://img.shields.io/github/followers/amandeep-singh?label=Followers&style=social" alt="Followers" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amandeep-singh/amandeep-singh/main/assets/cyberpunk-banner.gif" alt="Cyberpunk Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 20px #FF00FF;" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
 ```yaml
-Name: Amandeep Singh
 Alias: The Backend Beast & Frontend Flame
-Focus: AI | Web Dev | Solving Real-World Chaos with Code
-Mantra: I don’t stop when I’m tired. I stop when I’ve changed the game.
+Mission: Forge unbreakable systems, ignite user experiences, conquer chaos
+Domains: AI/ML, Full-Stack Web Dev, Cloud Engineering, Open Source
+Vibe: Neon-lit code samurai wielding logic and creativity
+Mantra: "Code is poetry. I’m the poet of the digital age."
 Quote: "Ups and downs in life are very important to keep us going, because a straight line even in an ECG means we are not alive." — Ratan Tata
-```
-
----
 
 ## ⚙️ Tech Stack: My Weapons
 
