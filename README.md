@@ -32,6 +32,15 @@ Mantra: "Code is poetry. I’m the poet of the digital age."
 Quote: "Ups and downs in life are very important to keep us going, because a straight line even in an ECG means we are not alive." — Ratan Tata
 ```
 
+
+<p align="center">
+  <a href="https://www.instagram.com/official.amn_79/" target="_blank">
+    <img src="assets/ChatGPT%20Image%20Apr%2012,%202025,%2001_11_45%20AM.png" alt="Cyber Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 20px #FF00FF;">
+  </a>
+</p>
+
+
+
 ## 💻 Tech Stack: My Weapons
 
 <h2 align="left"></h2>
