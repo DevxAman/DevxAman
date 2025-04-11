@@ -136,17 +136,24 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
 ## 🌐 Let's Get Social
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amandeep-singh-991bb1254/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/amandeep-singh-991bb1254/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="https://www.instagram.com/official.amn_79/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;
+  <a href="https://www.instagram.com/official.amn_79/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" />
   </a>
-  <a href="mailto:official.amn79@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:officialaman1125@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
   </a>
-  <a href="https://github.com/amandeep-singh">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  &nbsp;
+  <a href="https://github.com/amandeep-singh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/+hQssJ5nQ91IxYWJl" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=229ED9" />
   </a>
 </p>
 
