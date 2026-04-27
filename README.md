@@ -115,14 +115,6 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
 
 ---
 
-## 👁️ Live GitHub Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevxAman&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
 
 ## 🌐 Let's Get Social yh...
 
