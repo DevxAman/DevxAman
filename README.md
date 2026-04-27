@@ -34,8 +34,8 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
 
 
 <p align="center">
-  <a href="https://www.instagram.com/official.amn_79/" target="_blank">
-    <img src="assets/ChatGPT%20Image%20Apr%2012,%202025,%2001_11_45%20AM.png" alt="Cyber Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 20px #FF00FF;">
+  <a href="https://www.instagram.com/amandeeps_14/" target="_blank">
+    <img src="ChatGPT Image Apr 27, 2026, 11_30_45 PM.png" alt="Cyber Banner" style="max-width: 100%; border-radius: 12px; box-shadow: 0 0 20px #FF00FF;">
   </a>
 </p>
 
