@@ -87,15 +87,15 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
 
 ---
 
-## 📈 GitHub Domination
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandeep-singh&show_icons=true&theme=tokyonight&rank_icon=github&custom_title=Amandeep's%20GitHub%20Power" height="150" />
-  <img src="https://streak-stats.demolab.com?user=amandeep-singh&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevxAman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Statistics" height="150" />
+  <img src="https://streak-stats.demolab.com?user=DevxAman&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-singh&layout=compact&theme=tokyonight&langs_count=10&hide=java" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevxAman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=java" height="150" />
 </p>
 
 ---
@@ -103,57 +103,44 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
 ## 🏆 Trophy Shelf
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amandeep-singh&theme=radical&no-bg=true&row=1&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevxAman&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
-## 🔥 Contribution Graph
+## 📊 Contribution graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amandeep-singh&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevxAman&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Live GitHub Visitors
+## 👁️ Live GitHub Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amandeep-singh&label=👀%20Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=DevxAman&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
-## 🤖 Fun Facts
 
-- 🔭 Project: `Grievance Redressal Portal for GNDEC`
-- ⚙️ Currently Leveling Up In: `AI, DevOps, Cloud Engineering`
-- 🧠 I Think In: `Code, Chaos & Coffee`
-- ⚡ Fun Fact: I whisper to servers and they obey ☕💻
-
----
-
-## 🌐 Let's Get Social
+## 🌐 Let's Get Social yh...
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amandeep-singh-991bb1254/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/official.amn_79/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=C13584" />
+  <a href="https://www.instagram.com/amandeeps_14/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:officialaman1125@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  <a href="mailto:devxaman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/DevxAman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/+hQssJ5nQ91IxYWJl" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&labelColor=229ED9" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -161,7 +148,11 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
 
 ## 🚧 Portfolio
 
-👷‍♂️ `Work in progress... Launching soon with pure 🔥!`
+<p align="center">
+  <a href="https://devxaman.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -173,8 +164,6 @@ Quote: "Ups and downs in life are very important to keep us going, because a str
 
 ---
 
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
